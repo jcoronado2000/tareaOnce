@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="310"
+   viewBox="0 0 396.87499 82.020833"
+   version="1.1"
+   id="svg2633"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="linea.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2627">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1384"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="21.166668"
+       y="85.422623"
+       width="155.7262"
+       height="79.375"
+       id="rect12-0-8" />
+    <rect
+       x="21.166668"
+       y="85.422623"
+       width="155.7262"
+       height="79.375"
+       id="rect12-0-8-0" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2672716"
+     inkscape:cx="1237.3039"
+     inkscape:cy="171.62857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     width="1051.1999px" />
+  <metadata
+     id="metadata2630">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08336)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.554232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.5149125,249.49626 0.4202203,73.33583 c 27.7471872,-3.45854 60.0348452,1.24337 90.1364162,1.31545 25.243601,0.0604 52.860421,-4.83871 79.420871,-5.09733 29.53077,-0.28754 55.91047,2.84792 88.45557,3.9463 20.37358,0.68762 40.12591,-2.51365 63.87289,-1.47985 25.64834,1.11658 62.19204,1.31543 62.19204,1.31543 0,0 1.03628,-73.79957 0,-73.66471 -10.2399,1.33272 -62.22126,-3.16837 -96.64979,0.32889 -36.21393,3.67858 -67.72693,-4.5572 -101.90247,-3.78189 -21.28411,0.48284 -47.59135,0.97077 -71.01657,3.94631 -24.58607,3.123 -47.336626,0.0501 -70.596347,-1.15103 -15.553081,-0.80313 -44.3328305,0.9866 -44.3328305,0.9866 z"
+       id="path1181-3"
+       sodipodi:nodetypes="ccsasscsssssc" />
+    <path
+       style="fill:#e8d6cf;fill-opacity:1;stroke:none;stroke-width:0.361387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.5643174,251.27179 0.4279596,70.04743 c 28.258243,-3.30346 61.14058,1.18761 91.796567,1.25646 25.708546,0.0577 53.834016,-4.62174 80.883666,-4.86877 30.07467,-0.27464 56.94023,2.72022 90.08475,3.76936 20.74883,0.65678 40.86495,-2.40095 65.04931,-1.4135 26.12074,1.06651 63.3375,1.25645 63.3375,1.25645 0,0 1.05537,-70.49037 0,-70.36156 -10.42849,1.27296 -63.36725,-3.02629 -98.4299,0.31414 -36.88092,3.51364 -68.97433,-4.35285 -103.77932,-3.61231 -21.67612,0.46119 -48.46789,0.92724 -72.32456,3.76936 -25.038908,2.98296 -48.208488,0.0479 -71.89661,-1.09942 -15.839542,-0.76712 -45.1493626,0.94236 -45.1493626,0.94236 z"
+       id="path1181"
+       sodipodi:nodetypes="ccsasscsssssc" />
+  </g>
+</svg>
